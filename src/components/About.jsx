@@ -19,7 +19,7 @@ const About = () => {
                 </div>
 
                     <p data-aos="slide-up" data-aos-duration="500" className='text-xl mt-10 ease-in fade-in'>
-                    As a highly motivated 3rd-year B.Tech student, I am passionate about leveraging my technical skills and knowledge to contribute to the field of Web Developement amd Designing. With a strong foundation in subjects like Html, Css, React, I possess a solid understanding of core concepts and their practical applications. Alongside my academic pursuits, I actively engage in various extracurricular activities, including Recitation,  Anchoring and Extempore, which have honed my leadership and teamwork abilities. I am an adaptable and fast learner, always seeking new challenges to expand my horizons.
+                    As a highly motivated 4th-year B.Tech student, I am passionate about leveraging my technical skills and knowledge to contribute to the field of Web Developement amd Designing. With a strong foundation in subjects like Html, Css, React, I possess a solid understanding of core concepts and their practical applications. Alongside my academic pursuits, I actively engage in various extracurricular activities, including Recitation,  Anchoring and Extempore, which have honed my leadership and teamwork abilities. I am an adaptable and fast learner, always seeking new challenges to expand my horizons.
                     </p>
                 <br />
 
@@ -30,7 +30,7 @@ const About = () => {
 
 
                     <AiOutlineCloudDownload />
-                    <a href="./Resume_Barsha Sadhu.pdf" download>Download CV</a>
+                    <a href="./Bhaskar's Resume .pdf" download>Download CV</a>
                     </div>
             </div>
         </div>

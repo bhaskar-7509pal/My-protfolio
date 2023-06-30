@@ -13,7 +13,7 @@ const SocialLinks = () => {
                     GitHub <FaGithub size={25} />
                 </>
             ),
-            href: "https://github.com/Barsha1243",
+            href: "https://github.com/bhaskar-7509pal",
             style: "rounded-tr-md"
         },
         {
@@ -23,7 +23,7 @@ const SocialLinks = () => {
                     LinkedIn <FaLinkedin size={25} />
                 </>
             ),
-            href: "https://www.linkedin.com/in/barsha-sadhu-96a8ab218 ",
+            href: "https://www.linkedin.com/in/bhaskar-pal-400b94204/ ",
         },
         {
             id: 3,
@@ -32,7 +32,7 @@ const SocialLinks = () => {
                     Mail <HiOutlineMail size={25} />
                 </>
             ),
-            href: "mailto:barshasadhu99@gmail.com",
+            href: "mailto:bhaskar.sumon.98@gmail.com",
         },
         {
             id: 4,

@@ -18,7 +18,7 @@ const Home = () => {
                     <div>
                         <img src={Dp} alt="my profile" data-aos="fade-in" data-aos-duration="500" className='mt-20 rounded-2xl w-1/3 md:w-1/3 lg:w-1/5 my-5 hover:scale-105 duration-300 sm:ease-in' />
                     </div>
-                            <h2 data-aos="fade-in" data-aos-duration="1000" className='text-4xl sm:text-6xl font-bold text-white'>Barsha Sadhu | <span data-aos="fade-left" data-aos-easing="ease-in-sine" data-aos-duration="1000" className='animate-text bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent text-5xl font-black'>UI/UX Developer</span></h2>
+                            <h2 data-aos="fade-in" data-aos-duration="1000" className='text-4xl sm:text-5xl font-bold text-white'>Bhaskar Pal | <span data-aos="fade-left" data-aos-easing="ease-in-sine" data-aos-duration="1000" className='animate-text bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent text-4xl font-black'>MERN Stack Developer</span></h2>
                             <p data-aos="fade-in" data-aos-delay="400" data-aos-duration="2000" className='text-gray-400 py-4 max-w-md w-full'>
                                 I'm a B.Tech 4th year Student of Ramkrishna Mahato Government Engineering College, Purulia with the knowledge of DSA & Development in React, Node.js, Github, MongoDB, MySQL & much more...
                             </p>
